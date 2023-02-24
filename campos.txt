@@ -1,0 +1,8 @@
+tipo
+modelo
+ano
+marca
+cor
+acessorios
+combustivel
+foto
